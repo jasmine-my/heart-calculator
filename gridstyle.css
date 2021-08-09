@@ -9,6 +9,10 @@ body {
     width: 100%;
     margin: 0 auto;
 }
+input {
+    border: none;
+    outline: none;
+}
 /*calculator background*/
 .heart {
     margin: 180px auto;
